@@ -3,6 +3,7 @@ Data analyst with ~2 years of experience converting structured data into actiona
 Proficient in SQL and Python for data analysis and pattern discovery, with Power BI, Tableau, and Advanced Excel for reporting and planning support. Also skilled in statistical testing and predictive modeling for problems that call for deeper analytical rigor.
 
 Core skills: SQL, Power BI, Tableau, Python, Advanced Excel, statistical analysis
+
 Also skilled in: machine learning (regression, classification, clustering)
 
 Explore my work: [Data Analytics Portfolio](https://github.com/bharathi-k-04/data-analytics-portfolio)
